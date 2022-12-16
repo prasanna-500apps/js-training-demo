@@ -6,3 +6,4 @@ Don't alter a variable or object - create new variables and objects and return t
 Declare function parameters - any computation inside a function depends only on the arguments passed to the function, and not on any global object or variable.
 
 Adding one to a number is not very exciting, but we can apply these principles when working with arrays or more complex objects.
+url - https://drive.500apps.com/bb445bcc
