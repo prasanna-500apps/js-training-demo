@@ -32,3 +32,5 @@ function impartial(x, y, z) {
 
 const partialFn = impartial.bind(this, 1, 2);
 partialFn(10); // 13
+
+url - https://drive.500apps.com/1669baae
