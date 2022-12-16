@@ -9,3 +9,4 @@ numbers.some(function(currentValue) {
   return currentValue < 10;
 });
 The some method would return true.
+url - https://drive.500apps.com/f4340214
