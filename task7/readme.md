@@ -22,3 +22,4 @@ const users = [
 const names = users.map(user => user.name);
 console.log(names);
 The console would display the value [ 'John', 'Amy', 'camperCat' ].
+url - https://drive.500apps.com/ecc37822
