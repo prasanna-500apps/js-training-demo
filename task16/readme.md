@@ -9,3 +9,4 @@ numbers.every(function(currentValue) {
   return currentValue < 10;
 });
 The every method would return false here.
+url - https://drive.500apps.com/a2a94012
