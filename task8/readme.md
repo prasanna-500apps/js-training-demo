@@ -16,3 +16,4 @@ const users = [
 const usersUnder30 = users.filter(user => user.age < 30);
 console.log(usersUnder30); 
 The console would display the value [ { name: 'Amy', age: 20 }, { name: 'camperCat', age: 10 } ].
+url - https://drive.500apps.com/1864410a
