@@ -6,4 +6,4 @@ Here's an example:
 const arr = ["Cat", "Dog", "Tiger", "Zebra"];
 const newArray = arr.slice(1, 3);
 newArray would have the value ["Dog", "Tiger"].
-
+url - https://drive.500apps.com/b8621a74
